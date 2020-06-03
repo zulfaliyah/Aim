@@ -15,6 +15,20 @@
 		B304F91A2446276D000B3167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B304F9182446276D000B3167 /* LaunchScreen.storyboard */; };
 		B304F9252446276D000B3167 /* ParetoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304F9242446276D000B3167 /* ParetoTests.swift */; };
 		B304F9302446276D000B3167 /* ParetoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304F92F2446276D000B3167 /* ParetoUITests.swift */; };
+		B304F94024463EE8000B3167 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304F93F24463EE8000B3167 /* ResultViewController.swift */; };
+		B304F94224463F38000B3167 /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B304F94124463F38000B3167 /* InputViewController.swift */; };
+		B304F94424464883000B3167 /* done.png in Resources */ = {isa = PBXBuildFile; fileRef = B304F94324464883000B3167 /* done.png */; };
+		B304F94624464924000B3167 /* Lato-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94524464924000B3167 /* Lato-Light.ttf */; };
+		B304F94F24464941000B3167 /* SF-Pro-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94724464940000B3167 /* SF-Pro-Display-Bold.otf */; };
+		B304F95024464941000B3167 /* AvenirNextLTPro-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94824464940000B3167 /* AvenirNextLTPro-Bold.otf */; };
+		B304F95124464941000B3167 /* Gilroy-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94924464940000B3167 /* Gilroy-Light.otf */; };
+		B304F95224464941000B3167 /* SF-Pro-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94A24464941000B3167 /* SF-Pro-Display-Regular.otf */; };
+		B304F95324464941000B3167 /* SF-Pro-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94B24464941000B3167 /* SF-Pro-Display-Light.otf */; };
+		B304F95424464941000B3167 /* AvenirNextLTPro-It.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94C24464941000B3167 /* AvenirNextLTPro-It.otf */; };
+		B304F95524464941000B3167 /* Gilroy-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94D24464941000B3167 /* Gilroy-ExtraBold.otf */; };
+		B304F95624464941000B3167 /* AvenirNextLTPro-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = B304F94E24464941000B3167 /* AvenirNextLTPro-Regular.otf */; };
+		B304F95924465AD7000B3167 /* money.png in Resources */ = {isa = PBXBuildFile; fileRef = B304F95824465AD7000B3167 /* money.png */; };
+		B304F95B24466622000B3167 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B304F95A24466622000B3167 /* icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B304F90A2446276C000B3167 /* Pareto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pareto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B304F90A2446276C000B3167 /* Aim.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Aim.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B304F90D2446276C000B3167 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B304F90F2446276C000B3167 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B304F9112446276C000B3167 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +63,20 @@
 		B304F92B2446276D000B3167 /* ParetoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParetoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B304F92F2446276D000B3167 /* ParetoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParetoUITests.swift; sourceTree = "<group>"; };
 		B304F9312446276D000B3167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B304F93F24463EE8000B3167 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		B304F94124463F38000B3167 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
+		B304F94324464883000B3167 /* done.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = done.png; sourceTree = "<group>"; };
+		B304F94524464924000B3167 /* Lato-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Light.ttf"; sourceTree = "<group>"; };
+		B304F94724464940000B3167 /* SF-Pro-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Bold.otf"; sourceTree = "<group>"; };
+		B304F94824464940000B3167 /* AvenirNextLTPro-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirNextLTPro-Bold.otf"; sourceTree = "<group>"; };
+		B304F94924464940000B3167 /* Gilroy-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Light.otf"; sourceTree = "<group>"; };
+		B304F94A24464941000B3167 /* SF-Pro-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Regular.otf"; sourceTree = "<group>"; };
+		B304F94B24464941000B3167 /* SF-Pro-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-Pro-Display-Light.otf"; sourceTree = "<group>"; };
+		B304F94C24464941000B3167 /* AvenirNextLTPro-It.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirNextLTPro-It.otf"; sourceTree = "<group>"; };
+		B304F94D24464941000B3167 /* Gilroy-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-ExtraBold.otf"; sourceTree = "<group>"; };
+		B304F94E24464941000B3167 /* AvenirNextLTPro-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AvenirNextLTPro-Regular.otf"; sourceTree = "<group>"; };
+		B304F95824465AD7000B3167 /* money.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money.png; sourceTree = "<group>"; };
+		B304F95A24466622000B3167 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,7 +117,7 @@
 		B304F90B2446276C000B3167 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B304F90A2446276C000B3167 /* Pareto.app */,
+				B304F90A2446276C000B3167 /* Aim.app */,
 				B304F9202446276D000B3167 /* ParetoTests.xctest */,
 				B304F92B2446276D000B3167 /* ParetoUITests.xctest */,
 			);
@@ -99,13 +127,19 @@
 		B304F90C2446276C000B3167 /* Pareto */ = {
 			isa = PBXGroup;
 			children = (
+				B304F9572446494D000B3167 /* font */,
 				B304F90D2446276C000B3167 /* AppDelegate.swift */,
 				B304F90F2446276C000B3167 /* SceneDelegate.swift */,
 				B304F9112446276C000B3167 /* ViewController.swift */,
 				B304F9132446276C000B3167 /* Main.storyboard */,
+				B304F94124463F38000B3167 /* InputViewController.swift */,
+				B304F93F24463EE8000B3167 /* ResultViewController.swift */,
 				B304F9162446276D000B3167 /* Assets.xcassets */,
 				B304F9182446276D000B3167 /* LaunchScreen.storyboard */,
 				B304F91B2446276D000B3167 /* Info.plist */,
+				B304F95A24466622000B3167 /* icon.png */,
+				B304F94324464883000B3167 /* done.png */,
+				B304F95824465AD7000B3167 /* money.png */,
 			);
 			path = Pareto;
 			sourceTree = "<group>";
@@ -128,6 +162,22 @@
 			path = ParetoUITests;
 			sourceTree = "<group>";
 		};
+		B304F9572446494D000B3167 /* font */ = {
+			isa = PBXGroup;
+			children = (
+				B304F94524464924000B3167 /* Lato-Light.ttf */,
+				B304F94824464940000B3167 /* AvenirNextLTPro-Bold.otf */,
+				B304F94C24464941000B3167 /* AvenirNextLTPro-It.otf */,
+				B304F94E24464941000B3167 /* AvenirNextLTPro-Regular.otf */,
+				B304F94D24464941000B3167 /* Gilroy-ExtraBold.otf */,
+				B304F94924464940000B3167 /* Gilroy-Light.otf */,
+				B304F94724464940000B3167 /* SF-Pro-Display-Bold.otf */,
+				B304F94B24464941000B3167 /* SF-Pro-Display-Light.otf */,
+				B304F94A24464941000B3167 /* SF-Pro-Display-Regular.otf */,
+			);
+			path = font;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -145,7 +195,7 @@
 			);
 			name = Pareto;
 			productName = Pareto;
-			productReference = B304F90A2446276C000B3167 /* Pareto.app */;
+			productReference = B304F90A2446276C000B3167 /* Aim.app */;
 			productType = "com.apple.product-type.application";
 		};
 		B304F91F2446276D000B3167 /* ParetoTests */ = {
@@ -232,9 +282,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B304F94624464924000B3167 /* Lato-Light.ttf in Resources */,
+				B304F95024464941000B3167 /* AvenirNextLTPro-Bold.otf in Resources */,
+				B304F95124464941000B3167 /* Gilroy-Light.otf in Resources */,
 				B304F91A2446276D000B3167 /* LaunchScreen.storyboard in Resources */,
+				B304F94F24464941000B3167 /* SF-Pro-Display-Bold.otf in Resources */,
+				B304F95424464941000B3167 /* AvenirNextLTPro-It.otf in Resources */,
+				B304F94424464883000B3167 /* done.png in Resources */,
+				B304F95324464941000B3167 /* SF-Pro-Display-Light.otf in Resources */,
+				B304F95924465AD7000B3167 /* money.png in Resources */,
+				B304F95624464941000B3167 /* AvenirNextLTPro-Regular.otf in Resources */,
 				B304F9172446276D000B3167 /* Assets.xcassets in Resources */,
+				B304F95B24466622000B3167 /* icon.png in Resources */,
+				B304F95224464941000B3167 /* SF-Pro-Display-Regular.otf in Resources */,
 				B304F9152446276C000B3167 /* Main.storyboard in Resources */,
+				B304F95524464941000B3167 /* Gilroy-ExtraBold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +322,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B304F9122446276C000B3167 /* ViewController.swift in Sources */,
+				B304F94224463F38000B3167 /* InputViewController.swift in Sources */,
 				B304F90E2446276C000B3167 /* AppDelegate.swift in Sources */,
 				B304F9102446276C000B3167 /* SceneDelegate.swift in Sources */,
+				B304F94024463EE8000B3167 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,13 +499,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VM75B5PWD9;
 				INFOPLIST_FILE = Pareto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = www.infinitelearning.id.Pareto;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Aim;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -452,13 +517,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VM75B5PWD9;
 				INFOPLIST_FILE = Pareto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = www.infinitelearning.id.Pareto;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Aim;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
